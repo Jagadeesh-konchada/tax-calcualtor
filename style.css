@@ -1,6 +1,6 @@
 .root{
     text-align:center;
-    background-color: brown;
+    background-color:#31d472;
     width:50%;
     height:auto;
     justify-content: center;
@@ -15,4 +15,5 @@ margin: 20px auto;
     margin-bottom :10px; 
 
 }
+
 .root>h1
