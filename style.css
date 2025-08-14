@@ -1,0 +1,18 @@
+.root{
+    text-align:center;
+    background-color: brown;
+    width:50%;
+    height:auto;
+    justify-content: center;
+margin: 20px auto;
+
+}
+.root>input{
+    margin: 5px;
+}
+.root>button{
+    background-color: blueviolet;
+    margin-bottom :10px; 
+
+}
+.root>h1
